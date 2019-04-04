@@ -1,0 +1,5 @@
+1) Porque a compilação do java gera um arquivo .class que são os chamados bytecodes esses bytecodes são 
+interpretados pela jvm que então executará o programa. Sim pois os bytecodes não podem rodar diretamento no So
+diferente dos códigos compilados em C, os bytecodes tem que ser traduzidos pela jvm antes de rodarem.
+
+
